@@ -1,6 +1,6 @@
 ## Datos del proyecto
 <p>Nombre de la base de datos db_rentalController</p>
-## Pruebas 
+<h4>Pruebas</h4> 
 <h5>Administrador</h5>
  <p>email testing@gmail.com</p>
  <p>password testingAdmin</p>
