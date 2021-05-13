@@ -1,5 +1,12 @@
 ## Datos del proyecto
-
+## Nombre de la base de datos db_rentalController
+##Pruebas 
+## Administrador
+## email testing@gmail.com
+## password testingAdmin
+## Usuario
+## email testingInquilino@gmail.com
+## password 12345678
 
 
 
