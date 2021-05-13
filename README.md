@@ -1,6 +1,6 @@
 ## Datos del proyecto
 ## Nombre de la base de datos db_rentalController
-##Pruebas 
+## Pruebas 
 ## Administrador
 ## email testing@gmail.com
 ## password testingAdmin
